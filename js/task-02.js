@@ -6,7 +6,7 @@ const ingredients = [
   "Herbs",
   "Condiments",
 ];
-
+// рішення
 const ul = document.getElementById("ingredients");
 const liElements = [];
 
